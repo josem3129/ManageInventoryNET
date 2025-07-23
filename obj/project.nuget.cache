@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+BsRtN7aBY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josem\\Documents\\BYU Pathways\\BYU I 11th semester\\CSE325 - .Net Software development\\CSE 325\\ManageInventoryNET\\ManageInventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\josem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
