@@ -1,0 +1,2 @@
+# ManageInventoryNET
+.Net Software Development
